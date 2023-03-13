@@ -1,4 +1,4 @@
-package figuras
+package ejFiguras
 
 type Circulo struct {
 	Radio float32
