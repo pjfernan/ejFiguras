@@ -1,4 +1,4 @@
-package figuras
+package ejFiguras
 
 type Cuadrado struct {
 	Ancho, Alto float32
