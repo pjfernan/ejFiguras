@@ -1,4 +1,4 @@
-package figuras
+package ejFiguras
 
 import "fmt"
 
